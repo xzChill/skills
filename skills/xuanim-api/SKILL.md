@@ -1,6 +1,12 @@
 ---
 name: xuanim-api
+display_name: 喧喧 IM 集成 API
+display_name_en: XuanIM Integration API
 description: 喧喧 IM（xuanim）服务端 xxd 直连集成 API 开发技能。当用户需要调用喧喧服务端 `/im/...` HTTP 接口时使用此技能，涵盖获取讨论组、获取成员、推送通知消息、发送聊天消息等场景。包含请求格式、签名机制、字段约束及接口定义。当用户提到喧喧、xuanim、消息推送、群通知、IM 集成等关键词时应优先使用此技能。
+description_zh: 喧喧 IM 服务端 xxd 直连 API 集成技能，覆盖获取讨论组、获取成员、推送通知、发送聊天消息，含请求格式、签名算法与接口定义。
+description_en: XuanIM server-side xxd integration API skill covering chat groups, members, notifications and chat messages, with request format, signature algorithm and endpoint definitions.
+version: 1.0.0
+author: 喧喧
 ---
 
 # 喧喧IM（xxd）应用集成 API
